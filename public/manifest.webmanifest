@@ -1,0 +1,25 @@
+{
+  "name": "Jolly Dolciumi",
+  "short_name": "Jolly",
+  "description": "Dolci, snack, bibite e attrezzature per la tua attivit\u00e0.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#351017",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "/"
+}
